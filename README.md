@@ -1,5 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/nlp-cesarschool/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/nlp-cesarschool/blob/master/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/curso-mineracao-textos/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/curso-mineracao-textos/blob/master/)
 
 # Introdução a Mineração de Textos (Cesar School)
 Material de apoio para a disciplina de Mineração de Textos - MT (Cesar School).
@@ -12,6 +12,11 @@ Fornecer aos alunos os conhecimentos básicos dos principais tópicos e tarefas 
 - Como executar tarefas mais avançadas de PLN, como análise sintática e reconhecimento de entidades nomeadas.
 - Como usar essas bibliotecas Python em seus projetos futuros.
 
+## Material de apoio
+- [Introdução a Python](https://github.com/ufrpe-aulas/ic-aulas)
+- [Google Colab](https://colab.research.google.com/)
+- [Microsoft Azure Notebooks](https://notebooks.azure.com/)
+
 ## FAQ
 ### Por que Python?
 Python é atualmente uma das linguagens mais populares no mundo, com uma comunidade ativa e vibrante, espalhada por todos os continentes. Dada o seu alto poder de expressividade, a liguagem tem conquistado uma grande popularidade entre a comunidade científica, tornando-se um conhecimento quase que obrigatório nas mais variadas áreas do conhecimento, desde a engenharia a biologia.
@@ -21,16 +26,4 @@ Python é atualmente uma das linguagens mais populares no mundo, com uma comunid
 
 ## Conteúdo do curso
 1. [Introdução a Jupyter Notebooks](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/00_Intro.ipynb) 
-2. [Noções básicas de python](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/01_IntroPython.ipynb)
-3. [Comparaçes](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/02_Comparações.ipynb)
-4. [Estruturas condicionais](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/03_Condicionais.ipynb)
-5. [Listas](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/04_Listas.ipynb)
-6. [Loops - for](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/05_ListasLoops.ipynb)
-7. [Tuplas](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/06_Tuplas.ipynb)
-8. [Dicionários](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/07_Dicionarios.ipynb)
-9. [Funções](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/08_Funcoes.ipynb)
-10. [Arquivos](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/09_Arquivos.ipynb)
-11. [Loops - while](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/10_LoopWhile.ipynb)
-12. [Prática: arquivos](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/11_PraticaArquivos.ipynb)
-13. [Numpy](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/12_Numpy.ipynb)
-14. [Plotagem de gráficos](https://github.com/ufrpe-ensino/ic-aulas/blob/master/aulas/13_Matplotlib.ipynb)
+2. 
