@@ -7,6 +7,11 @@ Material de apoio para a disciplina de Mineração de Textos - MT (Cesar School)
 ## Objetivos do Curso
 Fornecer aos alunos os conhecimentos básicos dos principais tópicos e tarefas de MT. Introduzindo os principais algoritmos e ferramentas para problemas comuns na área.
 
+## O que será coberto?
+- Como executar tarefas básicas de PLN, como tokenização, segmentação de sentenças e identificação de POS.
+- Como executar tarefas mais avançadas de PLN, como análise sintática e reconhecimento de entidades nomeadas.
+- Como usar essas bibliotecas Python em seus projetos futuros.
+
 ## FAQ
 ### Por que Python?
 Python é atualmente uma das linguagens mais populares no mundo, com uma comunidade ativa e vibrante, espalhada por todos os continentes. Dada o seu alto poder de expressividade, a liguagem tem conquistado uma grande popularidade entre a comunidade científica, tornando-se um conhecimento quase que obrigatório nas mais variadas áreas do conhecimento, desde a engenharia a biologia.
