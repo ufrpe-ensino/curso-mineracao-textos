@@ -2,7 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/curso-mineracao-textos/blob/master/)
 
 # Introdução a Mineração de Textos (Cesar School)
-Material de apoio para a disciplina de Mineração de Textos - MT (Cesar School).
+Material de apoio para a disciplina de Mineração de Textos - MT.
 
 ## Objetivos do Curso
 Fornecer aos alunos os conhecimentos básicos dos principais tópicos e tarefas de MT. Introduzindo os principais algoritmos e ferramentas para problemas comuns na área.
